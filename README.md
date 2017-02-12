@@ -8,4 +8,4 @@ Scriptul nu verifica (inca) inregistrarile duble.
 Sursa site-urilor: 
 a. Extensia pentru Google Chrome - De Necrezut - https://github.com/dizzu/denecrezut.faction.ro/blob/master/js/script.js
 b. Site-ul https://verificasursa.ro/
-c. Preferinte personale: site-ul nu are 1. articole bazate pe "fapte alternative", 2. contact 3. nume de autori 
+c. Preferinte personale: 1. articole bazate pe "fapte alternative", 2. nu are contact,  3. numele autorilor sunt fictive, 4. click-bait, 5.spam, 6.spyware etc
